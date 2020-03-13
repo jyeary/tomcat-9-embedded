@@ -11,13 +11,13 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <tomcat.version>9.0.30</tomcat.version>
+        <tomcat.version>9.0.31</tomcat.version>
     </properties>
     <dependencies> 
         <dependency>
             <groupId>org.eclipse.jdt</groupId>
             <artifactId>ecj</artifactId>
-            <version>3.16.0</version>
+            <version>3.19.0</version>
         </dependency>
 
         <dependency>
